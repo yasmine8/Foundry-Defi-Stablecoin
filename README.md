@@ -1,4 +1,4 @@
-### Foundry DeFi Stablecoin
+# Foundry DeFi Stablecoin
 
 ## About
 
